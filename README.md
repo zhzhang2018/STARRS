@@ -1,6 +1,6 @@
 # STARRS
-Shuttle Tracker and Ride Request Services for the Colby College Shuttle and Jitney
-
+Shuttle Tracker and Ride Request Services for the Colby College Shuttle and Jitney  
+Note: This is the version up to Jan. 2018. I switched course after that, and the final version of the project can be found at WillGross/STARRS.
 
 To start:
 1. Drag MainPage.html to your browser to open the main page.
